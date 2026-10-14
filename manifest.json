@@ -1,0 +1,10 @@
+{
+  "id": "properties-mode-toggle",
+  "name": "Properties Mode Toggle",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Switch the \"Properties in document\" setting between Visible, Hidden, and Source with a hotkey, ribbon button, or status bar item.",
+  "author": "Mason Bryant",
+  "authorUrl": "https://github.com/mason-bryant",
+  "isDesktopOnly": false
+}
